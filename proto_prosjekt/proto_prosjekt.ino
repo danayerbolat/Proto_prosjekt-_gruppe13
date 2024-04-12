@@ -21,7 +21,7 @@ Adafruit_NeoPixel strips[NUM_STRIPS] = {
 //Initialize the LEDarray
 int LEDarray[4][16];
 
-
+//heihei jeg kan kommentere
 
 void setup() {
   //Initialize the LED strips: 
